@@ -19,7 +19,7 @@
       .row.justify-content-around.align-items-center(titulo="Extracción")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-2.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-2.svg', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -32,7 +32,7 @@
       .row.justify-content-around.align-items-center(titulo="Recepción")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-3.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-3.svg', alt='Texto que describa la imagen')
           
       
         .col-md-7
@@ -44,7 +44,7 @@
       .row.justify-content-around.align-items-center(titulo="Molienda")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-4.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-4.svg', alt='Texto que describa la imagen')
           
       
         .col-md-7
@@ -55,7 +55,7 @@
       .row.justify-content-around.align-items-center(titulo="Pre-limpieza")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-5.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-5.svg', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -66,7 +66,7 @@
       .row.justify-content-around.align-items-center(titulo="Almacenamiento")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-6.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-6.svg', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -76,7 +76,7 @@
       .row.justify-content-around.align-items-center(titulo="Clarificación")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-7.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-7.svg', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -89,7 +89,7 @@
       .row.justify-content-around.align-items-center(titulo="Evaporación")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-8.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-8.svg', alt='Texto que describa la imagen')
           
       
         .col-md-7
@@ -101,7 +101,7 @@
       .row.justify-content-around.align-items-center(titulo="Punteo")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-9.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-9.svg', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -113,7 +113,7 @@
       .row.justify-content-around.align-items-center(titulo="Cristalización")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-10.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-10.svg', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -125,7 +125,7 @@
       .row.justify-content-around.align-items-center(titulo="Tamizado")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T2/img-11.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-11.svg', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -222,7 +222,7 @@
             p En las cámaras convencionales, la superficie de la parrilla es demasiado grande, lo que permite que el aire falso enfríe el gas, lo que resulta en bajas temperaturas de combustión (850 °C, humedad del bagazo de 30 °C). Además, la superficie relativamente fría de la olla está directamente en la cámara, lo que termina en una combustión incompleta y un alto porcentaje de CO (6-7 %).
           .col-xl-6
             figure
-                img(src='@/assets/curso/temas/T2/img-21.svg', alt='Texto que describa la imagen')
+                img(data-aos='fade-left')(src='@/assets/curso/temas/T2/img-21.svg', alt='Texto que describa la imagen')
               
               
       
@@ -235,7 +235,7 @@
             p Las dimensiones de la cámara dependen de la energía requerida para el proceso y la geometría de la parrilla estándar. En general son más largas que anchas y las dimensiones son la velocidad del gas (3-5 m/s debajo de la primera cubeta y 7-10 m/s debajo de la última cubeta) y el máximo medio La 4ª o 5ª cubeta dada la longitud de la llama del bagazo alcanzando los 6 metros.
           .col-xl-6
             figure
-                img(src='@/assets/curso/temas/T2/img-22.svg', alt='Texto que describa la imagen')
+                img(data-aos='fade-left')(src='@/assets/curso/temas/T2/img-22.svg', alt='Texto que describa la imagen')
             
       
       .tarjeta.color-tabs.p-4(titulo="Ward-CIMPA")
@@ -298,7 +298,7 @@
     .row
       .col-3 
         figure
-          img(src='@/assets/curso/temas/T2/img-23.svg')
+          img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-23.svg')
       .col-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="color-secundario")
           .row(titulo="Paila semicilíndrica")
