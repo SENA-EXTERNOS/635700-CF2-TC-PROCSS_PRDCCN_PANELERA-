@@ -18,7 +18,7 @@
     .p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-2
-          img(src='@/assets/curso/temas/T1/img-2.svg')
+          img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-2.svg')
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
@@ -30,7 +30,7 @@
         .row.align-items-center
           .col-md-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T1/img-3.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-3.svg')
           .col-md-6
             p <b>Bagazo</b>
             p Es el residuo fibroso que queda de la caña de azúcar después de haber sido molida para extraer el jugo. Se guarda en una choza llamada bagacera cerca al trapiche y al quemador.
@@ -40,7 +40,7 @@
         .row.align-items-center
           .col-md-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T1/img-4.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-4.svg')
           .col-md-6
             p <b>Composición física</b>
             p A pesar de la variedad de plantas de trituración y de las máquinas utilizadas para ellas, la composición física del bagazo varía dentro de límites muy estrechos. En términos de exotermia, la característica más importante del bagazo es su contenido de humedad. 
@@ -61,7 +61,7 @@
         .row.align-items-center
           .col-md-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T1/img-5.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-5.svg')
           .col-md-6
             p <b>Cantidad de Bagazo</b>
             p La cantidad de bagazo disponible en un ingenio panelero depende del tipo y calidad de la caña de azúcar y de la eficiencia del ingenio en la extracción del jugo de caña. Generalmente, la cantidad de bagazo está entre el 25 % y el 45 % del peso de la caña molida. 250 y 450 KG por tonelada de caña de azúcar procesada.
@@ -71,7 +71,7 @@
         .row.align-items-center
           .col-md-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T1/img-6.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-6.svg')
           .col-md-6
             p <b>Composición química</b>
             p La composición química promedio de la fibra seca de bagazo es:
@@ -85,7 +85,7 @@
         .row.align-items-center
           .col-md-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T1/img-7.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-7.svg')
           .col-md-6
             p <b>Valor calorífico del bagazo</b>
             p El poder calorífico (CV) es la cantidad de calor que se puede producir al quemar una unidad de peso del combustible en cuestión. Hay dos tipos de poder calorífico: alto poder calorífico y bajo poder calorífico.
@@ -111,7 +111,7 @@
       .row.justify-content-around.align-items-center
         .col-md-3(data-aos='fade-right')
           figure
-            img(src='@/assets/curso/temas/T1/img-8.svg', alt='Obrero')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-8.svg', alt='Obrero')
         .col-md-9.mb-3.mb-md-0
           h3.mb-05 Infografía generalidades sobre el carbón.
           p El carbón combustible utilizado en las hornillas de concentración
@@ -147,7 +147,7 @@
               h5 Tabla 1.
               span Composición del aire seco
             figure
-              img(src='@/assets/curso/temas/T1/img-10.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-10.png', alt='Texto que describa la imagen')
               figcaption Nota: tomado de Hugot, 1974.
 
 
@@ -157,11 +157,11 @@
             p Los elementos combustibles del bagazo son el carbono y el hidrógeno; además de estos elementos, también está presente en el carbón una pequeña cantidad de azufre. Cuando estos reaccionan con el oxígeno, producen:
             .col-6.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/T1/img-12.svg', alt='Texto que describa la imagen')
+                img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-12.svg', alt='Texto que describa la imagen')
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T1/img-11.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-11.png', alt='Texto que describa la imagen')
           
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -173,7 +173,7 @@
               h5 Tabla 2.
               span Propiedades de los principales componentes de los gases
             figure
-              img(src='@/assets/curso/temas/T1/img-13.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-13.png', alt='Texto que describa la imagen')
               figcaption Nota: Tomado de Hugot, 1974
 
         .row(titulo="")
@@ -192,7 +192,7 @@
             p Pacheco , A. N. U. A. R. (2016). 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T1/img-14.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-14.png', alt='Texto que describa la imagen')
 
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -205,7 +205,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T1/img-15.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-15.png', alt='Texto que describa la imagen')
         
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -224,7 +224,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T1/img-16.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-16.png', alt='Texto que describa la imagen')
 
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -238,7 +238,7 @@
             p.mb-1 <b>m_∞ = </b>masa del combustible empleada, en Kg
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T1/img-17.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-17.png', alt='Texto que describa la imagen')
             
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -249,7 +249,7 @@
             p Donde m es igual al exceso de aire.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T1/img-18.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-18.png', alt='Texto que describa la imagen')
 
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -266,7 +266,7 @@
               h5 Tabla 3.
               span Correlación entre el contenido CO2 de los gases de
             figure
-              img(src='@/assets/curso/temas/T1/img-19.png', alt='Texto que describa la imagen')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-19.png', alt='Texto que describa la imagen')
               figcaption Nota: tomado de Hugot, 1974 
         
 
@@ -278,7 +278,7 @@
     .tarjeta.tarjeta--gris.p-4.p-md-5.mb-5
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          img(src="@/assets/curso/temas/T1/img-20.png")
+          img(data-aos='fade-right')(src="@/assets/curso/temas/T1/img-20.png")
 
         .col-md.col-lg-6
           p.mb-4 El Estado colombiano llevará a cabo investigación y desarrollo para modelar matemáticamente los procesos energéticos involucrados en la producción de panela y evaluará alternativas para mejorar procesos claves como la extracción (molienda), evaporación y concentración (punteo) del jugo de caña de azúcar en la producción de la panela.
@@ -365,7 +365,7 @@
         
       .col-4
         figure
-          img(src='@/assets/curso/temas/T1/img-26.svg')
+          img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-26.svg')
 
 </template>
 
