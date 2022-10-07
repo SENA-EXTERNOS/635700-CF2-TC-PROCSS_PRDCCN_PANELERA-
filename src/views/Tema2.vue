@@ -282,7 +282,68 @@
             p.mb-4 Se trata de un conducto de ladrillo o chapa que se encuentra al final del quemador y va conectado directamente a la chimenea. Su forma es cilíndrica, trapezoidal o cónica. Sus dimensiones dependen de su forma y del tamaño del quemador.
             p.mb-5 Su función es crear un diferencial de presión llamado “tiro”. Esto asegura el suministro de aire necesario para la combustión del bagazo y el transporte de gas, a través de los ductos.
 
+    ol.lista-ol--cuadro.mb-3
+      li
+        .lista-ol--cuadro__vineta
+          span 7
+        h3 Pailas
+    p.mb-5 Una paila es un recipiente metálico (a veces llamado charola, cacerola o evaporador) en el cual se deposita el jugo para evaporar la humedad durante el proceso de elaboración de la panela. El calor generado durante la quema del bagazo y transportado por el gas se transfiere a través de la sartén al jugo. Estos generalmente están hechos de cobre, aluminio o hierro mediante procesos de fundición o forjado en caliente. (Gordillo & García, 1992).
 
+    ol.lista-ol--cuadro.mb-3
+      li
+        .lista-ol--cuadro__vineta
+          span 
+        p <b>Tipos de pailas</b>
+
+    .row
+      .col-3 
+        figure
+          img(src='@/assets/curso/temas/T2/img-23.svg')
+      .col-9
+        AcordionA.mb-5(tipo="a" clase-tarjeta="color-secundario")
+          .row(titulo="Paila semicilíndrica")
+            .col-md-8.mb-4.mb-md-0
+              p.mb-5 Se utiliza una cubeta semicilíndrica cuando el paso del jugo se realiza manualmente. Tiene la ventaja de poder reducir el ancho del quemador con la misma superficie de transferencia de calor que una olla plana. Están en la zona más caliente del quemador.
+
+              
+          .row(titulo="Paila semiesférica ")
+            .col-md-8.mb-4.mb-md-0
+              p.mb-5 La cuba hemisférica se utiliza cuando el paso del jugo se hace de forma manual y en la parte final de evaporación y concentración. También se usa cuando la relación entre la superficie de transferencia de calor y el volumen de la olla es baja y la transferencia manual de jugo no requiere mucho esfuerzo.
+            
+          .row(titulo="Pailas planas y aleteadas")
+            .col-md-8.mb-4.mb-md-0
+              p.mb-4 Son más eficientes en términos de transferencia de calor que las sartenes planas. Esto se debe a que el área de superficie adicional proporcionada por las nervaduras aumenta el área expuesta al líquido, aumentando así el flujo de calor por convección de los gases de combustión a la caña. 
+              p.mb-5 Esto permite longitudes de quemador más cortas para la salida de calor requerida. Tenga en cuenta que se deben realizar cálculos para determinar las dimensiones y el número de las nervaduras para lograr un rendimiento óptimo. Suelen colocarse en la zona fría del quemador y requieren una mayor área de transferencia para asegurar el flujo de calor requerido.
+
+          .row(titulo="Pailas pilotubulares pirotubulares")
+            .col-md-8.mb-4.mb-md-0
+              p.mb-5 Al igual que con las bandejas acanaladas, el uso de revestimientos se limita a la primera parte de la etapa de evaporación. Esto se debe a que es más eficiente en la zona fría de la cámara de combustión donde el mecanismo dominante de transferencia de calor es la convección. Debido a la alta relación entre el área de transferencia de calor y el volumen, la longitud de la bandeja se puede reducir en comparación con las bandejas planas y con aletas planas con el mismo flujo de calor y tiempo de residencia.
+
+    #t_2_2.titulo-segundo.color-acento-contenido.mb-5
+      h2 2.2.	Seguridad y salud en el trabajo
+
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(data-aos='fade-right')(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/T2/img-24.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Los temas de seguridad y salud en el trabajo han cobrado mucha importancia en Colombia, esto se debe a que a lo largo de los años  progresivamente se han hecho cumplir leyes, normas y reglamentos que son más que beneficiosos para la empresa y sus empleados. Es deber de los empresarios velar por el cumplimiento de esta normativa, por la seguridad y salud de los trabajadores y evitar riesgos y peligros que tengan efectos sobre la salud.
+    
+
+    .tarjeta.color-secundario.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/T2/img-25.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Profundice en el estudio de este tema
+              p.text-small realizando la lectura del documento: Anexo 2. 
+              p.text-small Seguridad y salud en el trabajo.   
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
 
 </template>
 
