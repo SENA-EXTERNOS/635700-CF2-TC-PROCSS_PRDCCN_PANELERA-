@@ -202,14 +202,14 @@
 
     ol.lista-ol--cuadro.mb-3
       li
-        .lista-ol--cuadro__vineta
+        .lista-ol--cuadro__vineta.fab
           span 1
         h3 Cámara de combustión
     p.mb-5 Una cavidad en la parte delantera del quemador donde se quema bagazo u otro combustible para producir la energía o el calor necesarios para el proceso de fabricación de Panela. 
 
     ol.lista-ol--cuadro.mb-3
       li
-        .lista-ol--cuadro__vineta
+        .lista-ol--cuadro__vineta.fcc
           span 
         p <b>Tipos de cámaras de combustión</b>
 
@@ -248,20 +248,20 @@
       .col-xl-6.mb-4
         ol.lista-ol--cuadro.mb-3
           li
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.fab
               span 2
             h3 Cenicero
           p.mb-5 El cenicero es el compartimento o espacio justo debajo de la parrilla. Sirve para almacenar la ceniza que se genera al quemar el bagazo, y que se escapa de la parrilla, además, orienta el aire necesario para la combustión.
 
           li
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.fab
               span 3
             h3 Puerta de alimentación
           p.mb-4 Una abertura para que el panelero inserte el bagazo y encienda fuego. 
           p.mb-5 En la mayoría de los casos, en realidad es una boca de alimentación, ya que no tiene hojas que se puedan abrir y cerrar. Generalmente está hecha de hierro fundido gris y puede soportar temperaturas moderadamente altas sin deformarse.
 
           li
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.fab
               span 4
             h3 Parrilla
           p.mb-5 La parrilla consiste en una serie de placas de hierro fundido colocadas horizontalmente una detrás de la otra, que actúan como lecho para quemar el bagazo. La parrilla toma aire para la combustión y el paso de la ceniza del cenicero.
@@ -269,14 +269,14 @@
       .col-xl-6
         ol.lista-ol--cuadro.mb-3
             li
-              .lista-ol--cuadro__vineta
+              .lista-ol--cuadro__vineta.fab
                 span 5
               h3 Ducto de gases
             p.mb-4 También recibe su nombre de gasoductos, carreteras, barcos, etc. Las partes que componen el canal son muros de contención, pisos, arcos y cacerolas. Su función es canalizar los gases de combustión y ponerlos en contacto con la olla, transfiriendo parte de la energía al jugo.
             p.mb-5 La forma y los materiales de los canales varían, desde el más tradicional, que es la excavación realizada directamente en el sitio de construcción del horno, hasta las ollas sostenidas por paredes y arcos de tierra, que son de ladrillo refractario. 
 
             li
-              .lista-ol--cuadro__vineta
+              .lista-ol--cuadro__vineta.fab
                 span 6
               h3 Chimenea
             p.mb-4 Se trata de un conducto de ladrillo o chapa que se encuentra al final del quemador y va conectado directamente a la chimenea. Su forma es cilíndrica, trapezoidal o cónica. Sus dimensiones dependen de su forma y del tamaño del quemador.
@@ -284,14 +284,14 @@
 
     ol.lista-ol--cuadro.mb-3
       li
-        .lista-ol--cuadro__vineta
+        .lista-ol--cuadro__vineta.fab
           span 7
         h3 Pailas
     p.mb-5 Una paila es un recipiente metálico (a veces llamado charola, cacerola o evaporador) en el cual se deposita el jugo para evaporar la humedad durante el proceso de elaboración de la panela. El calor generado durante la quema del bagazo y transportado por el gas se transfiere a través de la sartén al jugo. Estos generalmente están hechos de cobre, aluminio o hierro mediante procesos de fundición o forjado en caliente. (Gordillo & García, 1992).
 
     ol.lista-ol--cuadro.mb-3
       li
-        .lista-ol--cuadro__vineta
+        .lista-ol--cuadro__vineta.fcc
           span 
         p <b>Tipos de pailas</b>
 
@@ -337,9 +337,9 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 Profundice en el estudio de este tema
-              p.text-small realizando la lectura del documento: Anexo 2. 
-              p.text-small Seguridad y salud en el trabajo.   
+              h3.texto-blanco.mb-1 Profundice en el estudio de este tema
+              p.texto-blanco.text-small realizando la lectura del documento: Anexo 2. 
+              p.texto-blanco.text-small Seguridad y salud en el trabajo.   
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                 span Descargar

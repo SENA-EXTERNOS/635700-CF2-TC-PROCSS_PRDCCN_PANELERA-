@@ -27,7 +27,7 @@
               
     TabsC.color-acento-contenido
       .py-3.py-md-4(titulo="Bagazo")
-        .row.align-items-center
+        .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-3.svg')
@@ -37,7 +37,7 @@
             p En los pequeños ingenios azucareros, este almacenamiento se acumula en pilas individuales de 2-3 metros de altura, lo que requiere un uso juicioso, tanto de la superficie disponible en la bagacera, como del flujo de aire que promueve el secado. Así que lo secamos durante 8-20 días para su posterior uso en el horno. En el trapiche grande hay una gran bagacera contigua al lugar. En estos, el bagazo se almacena en montones formados por la descarga de canastos recolectados del molino. (Vallejo., Peña, & Mora. 1995). 
       
       .py-3.py-md-4(titulo="Composición física")
-        .row.align-items-center
+        .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-4.svg')
@@ -49,16 +49,16 @@
             .col-sm.mb-5.mb-sm-0
               ol.lista-ol--cuadro
                 li 
-                  .lista-ol--cuadro__vineta
+                  .lista-ol--cuadro__vineta.fcp
                     span a.
                   | Un material insoluble, principalmente celulosa, que forma las fibras de bagazo. El contenido de fibra en la industria panelera es del 35 %.
                 li 
-                  .lista-ol--cuadro__vineta
+                  .lista-ol--cuadro__vineta.fcp
                     span b.
                   | Sustancia que se disuelve en agua (jugo de frutas) y está compuesta de azúcares e impurezas. Estas sustancias ocurren a una tasa de 5 - 10 %.
 
       .py-3.py-md-4(titulo="Cantidad")
-        .row.align-items-center
+        .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-5.svg')
@@ -68,7 +68,7 @@
             p El peso de bagazo recuperado es inversamente proporcional a la eficiencia de extracción del molino. Es decir, cuanto más jugo se extrae, menos bagazo se recupera, pero como resultado, el bagazo también tiene menor contenido de humedad, lo que facilita la combustión.
         
       .py-3.py-md-4(titulo="Composición química")
-        .row.align-items-center
+        .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-6.svg')
@@ -82,7 +82,7 @@
             p Donde Ɛ. es el contenido de cenizas
 
       .py-3.py-md-4(titulo="Valor calorífico")
-        .row.align-items-center
+        .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-7.svg')
@@ -95,7 +95,7 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      p Para ampliar la información relacionada con los valores caloríficos del bagazo de la caña, revise con atención el documento Anexo 1. Valor calorífico del bagazo. Para ello, haga clic aquí.
+                      p.texto-blanco Para ampliar la información relacionada con los valores caloríficos del bagazo de la caña, revise con atención el documento Anexo 1. Valor calorífico del bagazo. Para ello, haga clic aquí.
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                         span Descargar
@@ -286,23 +286,23 @@
           .col-sm.mb-5.mb-sm-0
             ol.lista-ol--cuadro
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta.fcp
                   span a.
                 | Disposición de la caña de azúcar en la zona de molinos
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta.fcp
                   span b.
                 | Extracción de los jugos utilizando molinos (molienda)
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta.fcp
                   span c.
                 | Decantación y clarificación de los jugos
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta.fcp
                   span d.
                 | Evaporación y concentración para obtención de las mieles (jarabe)
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta.fcp
                   span e.
                 | Cristalización
     .row.mt-5.mb-5
@@ -323,6 +323,7 @@
           .tarjeta
             .p-4
               p Contaminación del aire con gases de combustión y cenizas
+        hr
 
       .col-lg-6
         .tarjeta-avatar-b.mb-5
@@ -332,6 +333,7 @@
           .tarjeta
             .p-4
               p Agotamiento de recursos naturales, principalmente madera, para alimentar las hornillas paneleras
+        hr
 
       .col-lg-6
         .tarjeta-avatar-b.mb-5
@@ -341,6 +343,7 @@
           .tarjeta
             .p-4
               p Contaminación de fuentes de agua con el vertimiento de cachaza y lodo de caña
+        hr
 
       .col-lg-6
         .tarjeta-avatar-b.mb-5
@@ -350,6 +353,7 @@
           .tarjeta
             .p-4
               p Emisiones atmosféricas como resultado del uso de motores Diésel en los molinos de caña.
+        hr
 
     .row.mt-5
       .col-8 
