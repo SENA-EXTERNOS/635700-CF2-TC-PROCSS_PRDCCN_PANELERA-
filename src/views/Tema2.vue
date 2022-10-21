@@ -71,7 +71,7 @@
       
         .col-md-8
           p.mb-3 <b>Almacenamiento de los jugos</b>
-          p.mb-4 Consiste en recolectar el jugo prelavado en tanques de almacenamiento o colectores de acero inoxidable. El paso del jugo almacenado al clarificador es por gravedad, por lo que es importante que el colector quede arriba del clarificador.
+          p.mb-4 Consiste en recolectar el jugo pre lavado en tanques de almacenamiento o colectores de acero inoxidable. El paso del jugo almacenado al clarificador es por gravedad, por lo que es importante que el colector quede arriba del clarificador.
 
       .row.justify-content-around.align-items-center(titulo="Clarificación")
         .col-md-4.mb-4.mb-md-0
@@ -139,11 +139,11 @@
     #t_2_1.titulo-segundo.color-acento-contenido.mb-5
       h2 2.1.	Hornilla panelera
 
-    p.mb-5 El horno para hacer panela, comúnmente llamado quemador panelero, es un subsistema, dispositivo o equipo en un ingenio azucarero que remueve la mayoría de las impurezas y evapora el agua del jugo de la caña de azúcar para concentrar los sólidos solubles, principalmente azúcar, hasta "punto de la panela". La energía utilizada para calentar el jugo y evaporar el agua proviene del bagazo que se produce al triturar la caña de azúcar.
+    p.mb-5 El horno para hacer panela, comúnmente llamado quemador <b>panelero</b>, es un subsistema, dispositivo o equipo en un ingenio azucarero que remueve la mayoría de las impurezas y evapora el agua del jugo de la caña de azúcar para concentrar los sólidos solubles, principalmente azúcar, hasta "punto de la panela". La energía utilizada para calentar el jugo y evaporar el agua proviene del bagazo que se produce al triturar la caña de azúcar.
       .row.justify-content-around.align-items-center
         .col-md-9
           .titulo-sexto.color-acento-contenido
-            h5 Figura 2.
+            h5 Figura 3.
             span Diagrama en perspetiva de un trapiche panelero
           figure
             img(src='@/assets/curso/temas/T2/img-12.svg', alt='Texto que describa la imagen')
@@ -155,7 +155,7 @@
       .row.justify-content-around.align-items-center
         .col-md-9
           .titulo-sexto.color-acento-contenido
-            h5 Figura 3.
+            h5 Figura 4.
             span Partes que componen una hornilla panelera
 
     ImagenInfografica.color-acento-botones.mb-5

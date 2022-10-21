@@ -23,14 +23,14 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p.mb-5 Para la concentración de los jugos en las hornillas paneleras se emplea como combustible el bagazo de caña; sin embargo, en algunos casos para suplir el déficit de bagazo es necesario agregar otros combustibles adicionales como la guadua, la leña, el carbón mineral, el caucho proveniente de llantas usadas, el ACPM, la cascarilla de café o arroz, (Durán, (s/f)).
-              p El bagazo se presenta como combustible tanto para el clarificador como para el quemador evaporativo, y también, se realiza un análisis de éste para determinar la cantidad de calor disponible. 
+              p El bagazo se presenta como combustible tanto para el clarificador como para el quemador evaporativo, y también, se realiza un análisis de este para determinar la cantidad de calor disponible. 
               
     TabsC.color-acento-contenido
       .py-3.py-md-4(titulo="Bagazo")
         .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
-              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-3.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-3.png')
           .col-md-6
             p <b>Bagazo</b>
             p Es el residuo fibroso que queda de la caña de azúcar después de haber sido molida para extraer el jugo. Se guarda en una choza llamada bagacera cerca al trapiche y al quemador.
@@ -40,7 +40,7 @@
         .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
-              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-4.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-4.png')
           .col-md-6
             p <b>Composición física</b>
             p A pesar de la variedad de plantas de trituración y de las máquinas utilizadas para ellas, la composición física del bagazo varía dentro de límites muy estrechos. En términos de exotermia, la característica más importante del bagazo es su contenido de humedad. 
@@ -61,7 +61,7 @@
         .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
-              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-5.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-5.png')
           .col-md-6
             p <b>Cantidad de Bagazo</b>
             p La cantidad de bagazo disponible en un ingenio panelero depende del tipo y calidad de la caña de azúcar y de la eficiencia del ingenio en la extracción del jugo de caña. Generalmente, la cantidad de bagazo está entre el 25 % y el 45 % del peso de la caña molida. 250 y 450 KG por tonelada de caña de azúcar procesada.
@@ -153,7 +153,7 @@
 
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
-            h3.mb-3 Reaciones de la combustión
+            h3.mb-3 Reacciones de la combustión
             p Los elementos combustibles del bagazo son el carbono y el hidrógeno; además de estos elementos, también está presente en el carbón una pequeña cantidad de azufre. Cuando estos reaccionan con el oxígeno, producen:
             .col-6.d-none.d-lg-block
               figure
@@ -229,7 +229,7 @@
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
             h3.mb-3 Combustión con exceso de aire
-            p.mb-4 En la práctica, no es posible suministrar sólo la cantidad de aire teóricamente necesaria para quemar el combustible. Lograr una combustión completa, sin dejar residuos, sin quemar y convertir todo el carbono en CO2 requiere un exceso de suministro de aire. De hecho, cuando parte del carbono se quema para formar solo CO, se pierde una cantidad significativa de calor.
+            p.mb-4 En la práctica, no es posible suministrar solo la cantidad de aire teóricamente necesaria para quemar el combustible. Lograr una combustión completa, sin dejar residuos, sin quemar y convertir todo el carbono en CO2 requiere un exceso de suministro de aire. De hecho, cuando parte del carbono se quema para formar solo CO, se pierde una cantidad significativa de calor.
             p.mb-2 Calcule la cantidad real de aire consumido por kilogramo de combustible húmedo usando la siguiente fórmula:
             p.mb-4 Ma^r = mgh - m∞
             p.mb-2 <b>Donde:</b>
@@ -360,12 +360,12 @@
         .row(titulo="Manejo de jugos")
           .col-md-12.mb-4.mb-md-0
             .cajon.tarjeta-amarillo.p-4.mb-4
-              p.mb-5 Existen varias formas de pasar los jugos por medio de flujos a través de la hornilla; paralelo, contracorriente y mixto, todo esto depende de la tecnología y costumbres regionales.
+              p.mb-5 Debe tenerse en cuenta, que la falta de automatización y control en procesos y operaciones unitarias, genera una inadecuada dosificación de insumos, como el bagazo – suministrado a la cámara de combustión - y las sustancias clarificantes – sobre los jugos. La falta de automatización y de control dificulta la trazabilidad interna de la panela.
 
         .row(titulo="Calentamiento de jugos")
           .col-md-12.mb-4.mb-md-0
             .cajon.tarjeta-amarillo.p-4.mb-4
-              p.mb-5 Al terminar la pre limpieza se obtiene el jugo sin clarificar, el cual pasa directamente al fondo o paila recibidora a una temperatura ambiente, luego se inicia el calentamiento hasta los 55 oC, esta permite la aceleración de la velocidad del movimiento del jugo facilitando la formación de partículas de gran tamaño y densidad, las cuales deben ser removidas por procesos físicos.
+              p.mb-5 Al no integrarse los procesos unitarios se propicia pérdidas energéticas, pérdida de calor por transferencia a las paredes de la cámara de combustión, la no captura de calor residual al interior del ducto de gases y pérdida de temperatura de los gases expulsados por la chimenea. Se estimó que la pérdida de calor alcanza el 41 %.
         
       .col-4
         figure

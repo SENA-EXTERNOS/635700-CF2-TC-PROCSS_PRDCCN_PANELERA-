@@ -259,7 +259,7 @@ export default {
     {
       termino: 'Buenas Prácticas Agrícolas (BPA)',
       significado:
-        'es un procedimiento para que los empleados o contratistas informen por escrito a su empleador o contratista cualquier condición adversa de salud y seguridad que observen en su lugar de trabajo.',
+        'conjunto de prácticas destinadas a garantizar la inocuidad de los productos agrícolas, la protección del medio ambiente, la seguridad y el bienestar de los trabajadores y la sanidad agropecuaria (García, Albarracín, Toscano, Santana & Instasti, 2007)',
     },
     {
       termino: 'Buenas prácticas ambientales (BPAs)',
@@ -355,13 +355,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Durán Sánchez, E. (2019). Estudio térmico, económico y de calidad en sistemas de producción de panela. ',
+        'Montoya Armenta, L. & Romero Ruíz, H. (1998). Estudio hidrotérmico para la determinación de los coeficientes de transferencia de calor en tres tipos de pailas para hornillas paneleras',
+      link: '',
+    },
+    {
+      referencia:
+        'Beltrán Martínez, C. (2021). Evaluación de técnicas para gestión de los residuos de la producción panelera (cachaza) en la vereda Nacederos municipio de Quebradanegra-Cundinamarca. ',
+      link: 'https://repositorio.ucundinamarca.edu.co/handle/20.500.12558/3431',
+    },
+    {
+      referencia:
+        'Durán Sánchez, E. (2019). Estudio térmico, económico y de calidad en sistemas de producción de panela.',
       link: 'https://repositorio.unal.edu.co/handle/unal/76063',
     },
     {
       referencia:
-        'Diaz Delgado, N. Y., Sarasty Ruano, L. C., & Tobar Zambrano, D. M. (2021). Diseño de un Sistema de Gestión de Seguridad y Salud en el Trabajo en la empresa “Trapiche Divino Niño” Municipio de Ancuya-Nariño–2020. ',
-      link: 'https://hdl.handle.net/20.500.12962/803   ',
+        'Diaz Delgado, N. Y., Sarasty Ruano, L. C., & Tobar Zambrano, D. M. (2021). Diseño de un Sistema de Gestión de Seguridad y Salud en el Trabajo en la empresa “Trapiche Divino Niño” Municipio de Ancuya-Nariño–2020.',
+      link: 'https://hdl.handle.net/20.500.12962/803',
     },
     {
       referencia:
@@ -370,7 +380,7 @@ export default {
     },
     {
       referencia:
-        'Esquivel Barrios, L. C., & Arenas Quimbayo, J. M. (2016). Análisis externo en el sector panelero. Temas y Reflexiones; núm. 5 (2016). ',
+        'Esquivel Barrios, L. C., & Arenas Quimbayo, J. M. (2016). Análisis externo en el sector panelero. Temas y Reflexiones; núm. 5 (2016).',
       link:
         'http://repositorio.unibague.edu.co:80/jspui/handle/20.500.12313/216',
     },
@@ -391,13 +401,13 @@ export default {
     },
     {
       referencia:
-        'Jaramillo Gómez, D. A., Sánchez López, S. A., & Meneses Suarez, E. J. (2018). Criterios de implementación ISO 14001: 2015 caso de estudio sector Panelero. ',
+        'Jaramillo Gómez, D. A., Sánchez López, S. A., & Meneses Suarez, E. J. (2018). Criterios de implementación ISO 14001: 2015 caso de estudio sector Panelero.',
       link:
         'https://repository.unad.edu.co/bitstream/handle/10596/23421/dajaramillog.pdf?sequence=1',
     },
     {
       referencia:
-        'La Madrid Olivares, R. (2015). Modelación numérica del proceso de transferencia de calor en intercambiadores de calor abiertos utilizados en la industria panelera. ',
+        'La Madrid Olivares, R. (2015). Modelación numérica del proceso de transferencia de calor en intercambiadores de calor abiertos utilizados en la industria panelera.',
       link:
         'https://pirhua.udep.edu.pe/bitstream/handle/11042/5446/DOC_ING_AUT_001.pdf?sequence=1&isAllowed=y',
     },
@@ -408,12 +418,12 @@ export default {
     },
     {
       referencia:
-        'Medina Moreno, R. A. (2016). Estudio computacional de la transferencia de calor en una paila panelera tipo semiesférica. ',
+        'Medina Moreno, R. A. (2016). Estudio computacional de la transferencia de calor en una paila panelera tipo semiesférica.',
       link: 'https://repositorio.uniandes.edu.co/handle/1992/13708',
     },
     {
       referencia:
-        'Mejía Restrepo, A. M. (2007). Propuesta para la implementación del sistema de gestión ambiental en el trapiche panelero-HVC. ',
+        'Mejía Restrepo, A. M. (2007). Propuesta para la implementación del sistema de gestión ambiental en el trapiche panelero-HVC.',
       link:
         'https://repositorio.utp.edu.co/items/2a289c49-1854-4bb8-9d9d-832cc77e5a69',
     },
@@ -430,7 +440,7 @@ export default {
     },
     {
       referencia:
-        'Leguízamos, S. G. I. ., & Yepes. G. N. V. (2014). Estudio Descriptivo Mediante Análisis Multicriterio de la Cadena Agroalimentaria de La Panela. Publicaciones e Investigación, 8, 161-183. ',
+        'Leguízamos, S. G. I. ., & Yepes. G. N. V. (2014). Estudio Descriptivo Mediante Análisis Multicriterio de la Cadena Agroalimentaria de La Panela. Publicaciones e Investigación, 8, 161-183.',
       link:
         'https://hemeroteca.unad.edu.co/index.php/publicaciones-e-investigacion/article/view/1298',
     },
@@ -441,18 +451,18 @@ export default {
     },
     {
       referencia:
-        'Superintendencia de Industria y Comercio, «Estudios de Mercado. Cadena productiva de la panela en Colombia 2010 -2012,» SIC, Bogotá, 2012.Superintendencia de Industria y Comercio, «Estudios de Mercado. Cadena productiva de la panela en Colombia 2010 -2012,» SIC, Bogotá, 2012.',
+        'Superintendencia de Industria y Comercio, «Estudios de Mercado. Cadena productiva de la panela en Colombia 2010 -2012,» SIC, Bogotá, 2012.',
       link: '',
     },
     {
       referencia:
         'Vallejo Carabalí, C. E., Peña Medina, H., & Mora Muñoz, L. S. (1995). Evaluación de la producción y consumo de energía en hornillas paneleras. Universidad Autónoma de Occidente.',
-      link: ' https://red.uao.edu.co/handle/10614/2588',
+      link: 'https://red.uao.edu.co/handle/10614/2588',
     },
     {
       referencia:
         'Velásquez, H. I., Janna, F. C., & Agudelo, A. F. (2006). Diagnóstico exergético de los procesos productivos de la panela en Colombia. Energética, (35), 15-22.',
-      link: ' https://www.redalyc.org/articulo.oa?id=147019422003',
+      link: 'https://www.redalyc.org/articulo.oa?id=147019422003',
     },
   ],
   creditos: {
