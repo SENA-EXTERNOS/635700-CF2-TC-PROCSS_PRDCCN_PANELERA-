@@ -107,18 +107,17 @@
       h2 1.2 Combustible utilizado en las hornillas de concentración
 
     p Combustible sólido de color negro o negro parduzco producido por la descomposición de la vegetación vieja en ausencia de aire, bajo las influencias bioquímicas, humedad, presión y calor. Se compone esencialmente de carbono, hidrógeno, oxígeno y pequeñas cantidades de nitrógeno y azufre.
-    .tarjeta.tarjeta-amarillo.p-4.mb-5
+    .tarjeta.color-secundario.p-4.mb-5
       .row.justify-content-around.align-items-center
-        .col-md-3(data-aos='fade-right')
+        .col-3.col-sm-2.col-lg-1(data-aos='fade-right')
           figure
             img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-8.svg', alt='Obrero')
         .col-md-9.mb-3.mb-md-0
-          h3.mb-05 Infografía generalidades sobre el carbón.
-          p El carbón combustible utilizado en las hornillas de concentración
-          .col-sm-auto
-            a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-              span Descargar
-              i.fas.fa-file-download
+          p.texto-blanco A continuación, se presentan algunas generalidades sobre el carbón.
+        .col-sm-auto
+          a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+            span.texto-blanco Descargar
+            i.fas.fa-file-download
     Separador
 
     #t_1_3.titulo-segundo.color-acento-contenido.mb-5
@@ -212,12 +211,12 @@
             h3.mb-3 Combustión de carbón sin exceso de aire.
             p.mb-4 Para calcular la cantidad de oxígeno necesaria para la combustión, se debe tener en cuenta la composición química del carbón y las proporciones especificadas en la reacción anterior.
             p.mb-1 <b>Ejemplo</b>
-            p.mb-0 C = 0,685 Kg * 2,67   = 1, 829 Kg O2
-            p.mb-0 H2 = 0,040 Kg * 8  	=  0,320 Kg O2
-            p.mb-2 S   = 0,009 Kg * 1  	=  0,009 Kg O2
+            p.mb-0 C = 0,685 Kg * 2,67   = 1, 829 Kg O<span class="exponentes">2</span>
+            p.mb-0 H<span class="exponentes">2</span> = 0,040 Kg * 8  	=  0,320 Kg O<span class="exponentes">2</span>
+            p.mb-2 S   = 0,009 Kg * 1  	=  0,009 Kg O<span class="exponentes">2</span>
             p.mb-1 <b>Total</b>
-            p.mb-0 El carbón contiene 0,076 Kg O2
-            p.mb-4 El aire debe proporcionar   = 2,082 Kg O2
+            p.mb-0 El carbón contiene 0,076 Kg O<span class="exponentes">2</span>
+            p.mb-4 El aire debe proporcionar   = 2,082 Kg O<span class="exponentes">2</span>
             p.mb-1 <b>Para calcular el nitrógeno </b>
             p.mb-0 2,082 (Kg O2)/(Kg CO) * (76,85 Kg N2)/(23,15 Kg O2) = 6,915 (Kg N2)/(Kg CO)
             p.mb-0 Masa total del aire necesario por Kg de combustible = 8,997 Kg.
@@ -228,12 +227,12 @@
 
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
-            h3.mb-3 Combustión con exceso de aire
+            h3.mb- Combustión con exceso de aire
             p.mb-4 En la práctica, no es posible suministrar solo la cantidad de aire teóricamente necesaria para quemar el combustible. Lograr una combustión completa, sin dejar residuos, sin quemar y convertir todo el carbono en CO2 requiere un exceso de suministro de aire. De hecho, cuando parte del carbono se quema para formar solo CO, se pierde una cantidad significativa de calor.
             p.mb-2 Calcule la cantidad real de aire consumido por kilogramo de combustible húmedo usando la siguiente fórmula:
-            p.mb-4 Ma^r = mgh - m∞
+            p.mb-4 Ma<span class="exponente">r</span>  = mgh - m∞
             p.mb-2 <b>Donde:</b>
-            p.mb-1 <b>Ma^r = </b>masa del aire empleado por Kg de combustibles
+            p.mb-1 <b>Ma<span class="exponente">r</span> = </b>masa del aire empleado por Kg de combustibles
             p.mb-1 <b>mgh = </b>masa de los productos gaseosos de la combustión, en Kg
             p.mb-1 <b>m_∞ = </b>masa del combustible empleada, en Kg
           .col-md-6
