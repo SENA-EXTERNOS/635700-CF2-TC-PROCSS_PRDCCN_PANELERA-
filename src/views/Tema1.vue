@@ -97,7 +97,7 @@
                     .col.mb-3.mb-sm-0
                       p.texto-blanco Para ampliar la información relacionada con los valores caloríficos del bagazo de la caña, revise con atención el documento Anexo 1. Valor calorífico del bagazo. Para ello, haga clic aquí.
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/ANEXO1.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
             
@@ -115,7 +115,7 @@
         .col-md-9.mb-3.mb-md-0
           p.texto-blanco A continuación, se presentan algunas generalidades sobre el carbón.
         .col-sm-auto
-          a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+          a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/INFOGRAFIA_GENERALIDADES_SOBRE_EL_CARBON.pdf')" target="_blank")
             span.texto-blanco Descargar
             i.fas.fa-file-download
     Separador

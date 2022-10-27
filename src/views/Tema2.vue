@@ -337,11 +337,11 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.texto-blanco.mb-1 Profundice en el estudio de este tema
-              p.texto-blanco.text-small realizando la lectura del documento: Anexo 2. 
-              p.texto-blanco.text-small Seguridad y salud en el trabajo.   
+              h3.texto-negro.mb-1 Profundice en el estudio de este tema
+              p.texto-negro.text-small realizando la lectura del documento: Anexo 2. 
+              p.texto-negro.text-small Seguridad y salud en el trabajo.   
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/ANEXO2.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
