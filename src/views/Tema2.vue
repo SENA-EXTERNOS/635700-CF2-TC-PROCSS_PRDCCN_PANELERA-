@@ -212,37 +212,39 @@
         .lista-ol--cuadro__vineta.fcc
           span 
         p <b>Tipos de cámaras de combustión</b>
+    .row
+      .col-8
+        TabsA.color-secundario.mb-5
+          .tarjeta.color-acordeones.p-4(titulo="Plana")
+            h4 Plana
 
-    TabsA.color-secundario.mb-5
-      .tarjeta.color-tabs.p-4(titulo="Plana")
-        h4 Plana
-
-        .row 
-          .col-xl-6.mb-4
-            p En las cámaras convencionales, la superficie de la parrilla es demasiado grande, lo que permite que el aire falso enfríe el gas, lo que resulta en bajas temperaturas de combustión (850 °C, humedad del bagazo de 30 °C). Además, la superficie relativamente fría de la olla está directamente en la cámara, lo que termina en una combustión incompleta y un alto porcentaje de CO (6-7 %).
-          .col-xl-6
-            figure
-                img(data-aos='fade-left')(src='@/assets/curso/temas/T2/img-21.svg', alt='Texto que describa la imagen')
+            .row 
+              .col-xl-12.mb-4
+                p En las cámaras convencionales, la superficie de la parrilla es demasiado grande, lo que permite que el aire falso enfríe el gas, lo que resulta en bajas temperaturas de combustión (850 °C, humedad del bagazo de 30 °C). Además, la superficie relativamente fría de la olla está directamente en la cámara, lo que termina en una combustión incompleta y un alto porcentaje de CO (6-7 %).
               
-              
-      
-      .tarjeta.color-tabs.p-4(titulo="Plana-Cimpa")
-        h4 Plana-Cimpa
+                  
+                  
+          
+          .tarjeta.color-acordeones.p-4(titulo="Plana-Cimpa")
+            h4 Plana-Cimpa
 
-        .row
-          .col-xl-6.mb-4
-            p.mb-4 Esta cámara es un diseño mejorado de la cámara tradicional, donde el bagazo se quema lejos de la primera bandeja y alcanza una alta temperatura de combustión de casi 950 °C. Este tipo de cámara se caracteriza por la combustión de bagazo con una humedad inferior al 30 % (base húmeda, b.h.) y un exceso de aire de casi el 60 %.
-            p Las dimensiones de la cámara dependen de la energía requerida para el proceso y la geometría de la parrilla estándar. En general son más largas que anchas y las dimensiones son la velocidad del gas (3-5 m/s debajo de la primera cubeta y 7-10 m/s debajo de la última cubeta) y el máximo medio La 4ª o 5ª cubeta dada la longitud de la llama del bagazo alcanzando los 6 metros.
-          .col-xl-6
-            figure
-                img(data-aos='fade-left')(src='@/assets/curso/temas/T2/img-22.svg', alt='Texto que describa la imagen')
-            
-      
-      .tarjeta.color-tabs.p-4(titulo="Ward-CIMPA")
-        h4 Ward-CIMPA
-        p.mb-4 Este tipo de cámara tiene un diseño especial que aumenta la combustión y la eficiencia del proceso. Esto se debe a una mejor estabilidad en términos de temperatura y potencia a lo largo del tiempo. Este tipo de cámara puede alcanzar temperaturas cercanas a los 1200 °C y, cuando se le suministra un 60 % de exceso de aire y una humedad promedio de 40 bagazo, produce un 3 % en volumen de monóxido de carbono y un 14 % en volumen de dióxido de carbono. 
-        p.mb-4 También cuenta con dos características especiales. Primero, hay lámparas que precalientan y secan el bagazo antes de quemarlo. 
-        p En esta tolva, la humedad contenida en el bagazo se evapora de las paredes de la cámara bajo la acción de la energía radiante. Esta característica permite la introducción de bagazo con un contenido de humedad de casi 45 % (b.h.). En segundo lugar, el aire necesario para la combustión se suministra en dos corrientes. Uno es el aire primario que fluye a través de la parrilla (un total de 70 litros de aire) y el 30 % restante se alimenta como aire secundario a la cámara por encima de la combustión de los volátiles en el lecho de bagazo (Gordillo & García, 1992).
+            .row
+              .col-xl-12.mb-4
+                p.mb-4 Esta cámara es un diseño mejorado de la cámara tradicional, donde el bagazo se quema lejos de la primera bandeja y alcanza una alta temperatura de combustión de casi 950 °C. Este tipo de cámara se caracteriza por la combustión de bagazo con una humedad inferior al 30 % (base húmeda, b.h.) y un exceso de aire de casi el 60 %.
+                p Las dimensiones de la cámara dependen de la energía requerida para el proceso y la geometría de la parrilla estándar. En general son más largas que anchas y las dimensiones son la velocidad del gas (3-5 m/s debajo de la primera cubeta y 7-10 m/s debajo de la última cubeta) y el máximo medio La 4ª o 5ª cubeta dada la longitud de la llama del bagazo alcanzando los 6 metros.
+              
+                
+          
+          .tarjeta.color-acordeones.p-4(titulo="Ward-CIMPA")
+            h4 Ward-CIMPA
+            p.mb-4 Este tipo de cámara tiene un diseño especial que aumenta la combustión y la eficiencia del proceso. Esto se debe a una mejor estabilidad en términos de temperatura y potencia a lo largo del tiempo. Este tipo de cámara puede alcanzar temperaturas cercanas a los 1200 °C y, cuando se le suministra un 60 % de exceso de aire y una humedad promedio de 40 bagazo, produce un 3 % en volumen de monóxido de carbono y un 14 % en volumen de dióxido de carbono. 
+            p.mb-4 También cuenta con dos características especiales. Primero, hay lámparas que precalientan y secan el bagazo antes de quemarlo. 
+            p En esta tolva, la humedad contenida en el bagazo se evapora de las paredes de la cámara bajo la acción de la energía radiante. Esta característica permite la introducción de bagazo con un contenido de humedad de casi 45 % (b.h.). En segundo lugar, el aire necesario para la combustión se suministra en dos corrientes. Uno es el aire primario que fluye a través de la parrilla (un total de 70 litros de aire) y el 30 % restante se alimenta como aire secundario a la cámara por encima de la combustión de los volátiles en el lecho de bagazo (Gordillo & García, 1992).
+      .col-4 
+        figure
+          img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-26.png')
+
+
 
     .row
       .col-xl-6.mb-4

@@ -133,7 +133,7 @@
     p <b>A continuación, se presentan algunos componentes, reacciones, propiedades de la combustión y cómo esta se da con el bagazo de la caña.</b>
 
 
-    .tarjeta.tarjeta--gris.p-4
+    .tarjeta.fce.p-4
       PasosB.color-secundario
 
         .row(titulo="")
@@ -354,16 +354,17 @@
               p Emisiones atmosféricas como resultado del uso de motores Diésel en los molinos de caña.
         hr
 
+    
     .row.mt-5
       .col-8 
         .row(titulo="Manejo de jugos")
           .col-md-12.mb-4.mb-md-0
-            .cajon.tarjeta-amarillo.p-4.mb-4
+            .tarjeta.tarjeta-amarillo.p-4.mb-4
               p.mb-5 Debe tenerse en cuenta, que la falta de automatización y control en procesos y operaciones unitarias, genera una inadecuada dosificación de insumos, como el bagazo – suministrado a la cámara de combustión - y las sustancias clarificantes – sobre los jugos. La falta de automatización y de control dificulta la trazabilidad interna de la panela.
 
         .row(titulo="Calentamiento de jugos")
           .col-md-12.mb-4.mb-md-0
-            .cajon.tarjeta-amarillo.p-4.mb-4
+            .tarjeta.tarjeta-amarillo.p-4.mb-4
               p.mb-5 Al no integrarse los procesos unitarios se propicia pérdidas energéticas, pérdida de calor por transferencia a las paredes de la cámara de combustión, la no captura de calor residual al interior del ducto de gases y pérdida de temperatura de los gases expulsados por la chimenea. Se estimó que la pérdida de calor alcanza el 41 %.
         
       .col-4
