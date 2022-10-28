@@ -71,7 +71,7 @@
         .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
-              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-6.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-6.png')
           .col-md-6
             p <b>Composición química</b>
             p La composición química promedio de la fibra seca de bagazo es:
@@ -85,7 +85,7 @@
         .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
-              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-7.svg')
+              img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-7.png')
           .col-md-6
             p <b>Valor calorífico del bagazo</b>
             p El poder calorífico (CV) es la cantidad de calor que se puede producir al quemar una unidad de peso del combustible en cuestión. Hay dos tipos de poder calorífico: alto poder calorífico y bajo poder calorífico.
@@ -310,7 +310,7 @@
           h5 Figura 1.
           span Diagrama de flujo del proceso de transformación de caña de panela 
         figure
-          img(src='@/assets/curso/temas/T1/img-21.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/T1/img-21.png', alt='Texto que describa la imagen')
     p Aunque el Estado colombiano ha tratado de tecnificar las pequeñas empresas productoras de panela, no se ha logrado acceder a recursos para la reconversión tecnológica de sus hornillas y pailas, gracias a esto, en las unidades de producción de panela, se presentan eventos no deseables:
     
     .row
@@ -369,7 +369,7 @@
         
       .col-4
         figure
-          img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-26.svg')
+          img(data-aos='fade-left')(src='@/assets/curso/temas/T1/img-26.png')
 
 </template>
 

@@ -19,7 +19,7 @@
       .row.justify-content-around.align-items-center(titulo="Extracción")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-2.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-2.png', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -32,7 +32,7 @@
       .row.justify-content-around.align-items-center(titulo="Recepción")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-3.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-3.png', alt='Texto que describa la imagen')
           
       
         .col-md-7
@@ -44,7 +44,7 @@
       .row.justify-content-around.align-items-center(titulo="Molienda")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-4.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-4.png', alt='Texto que describa la imagen')
           
       
         .col-md-7
@@ -55,7 +55,7 @@
       .row.justify-content-around.align-items-center(titulo="Pre-limpieza")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-5.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-5.png', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -66,7 +66,7 @@
       .row.justify-content-around.align-items-center(titulo="Almacenamiento")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-6.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-6.png', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -76,7 +76,7 @@
       .row.justify-content-around.align-items-center(titulo="Clarificación")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-7.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-7.png', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -89,7 +89,7 @@
       .row.justify-content-around.align-items-center(titulo="Evaporación")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-8.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-8.png', alt='Texto que describa la imagen')
           
       
         .col-md-7
@@ -101,7 +101,7 @@
       .row.justify-content-around.align-items-center(titulo="Punteo")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-9.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-9.png', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -113,7 +113,7 @@
       .row.justify-content-around.align-items-center(titulo="Cristalización")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-10.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-10.png', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -125,7 +125,7 @@
       .row.justify-content-around.align-items-center(titulo="Tamizado")
         .col-md-4.mb-4.mb-md-0
           figure
-            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-11.svg', alt='Texto que describa la imagen')
+            img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-11.png', alt='Texto que describa la imagen')
           
       
         .col-md-8
@@ -146,7 +146,7 @@
             h5 Figura 3.
             span Diagrama en perspetiva de un trapiche panelero
           figure
-            img(src='@/assets/curso/temas/T2/img-12.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/T2/img-12.png', alt='Texto que describa la imagen')
             figcaption Nota: Adaptada / Programa de procesos Agroindustriales. CORPOICA- C.I. Tibaitatá, 2011
 
     p.mb-5 La mayoría de los ingenios azucareros trabajan con un sistema de “evaporación abierta y fuego directo”. Está abierto porque el evaporador (olla) está en contacto directo con los gases de combustión, por lo que el jugo hierve a la presión atmosférica local y tiene llama abierta.
@@ -161,7 +161,7 @@
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/T2/img-13.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/T2/img-13.png', alt='Texto que describa la imagen')
           
 
       .tarjeta.tarjeta-amarillo.p-3(x="10%" y="62%" numero="1")
