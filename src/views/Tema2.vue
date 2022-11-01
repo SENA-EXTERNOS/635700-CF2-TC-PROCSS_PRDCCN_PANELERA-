@@ -15,7 +15,7 @@
         p.mb-0 La panela es un edulcorante altamente nutritivo que se elabora concentrando todos los sólidos solubles en agua y en el jugo de caña de azúcar. La panela se diferencia de la azúcar refinada en que contiene, además de sacarosa, glucosa y fructosa, una presencia importante de minerales, grasas, compuestos proteicos y vitaminas, desde el punto de vista nutricional.
     p.mb-4 <b>A continuación, se presentan las fases del proceso de producción de panela.</b>
 
-    LineaTiempoC.color-acento-botones(text-small)
+    LineaTiempoC.faa(text-small)
       .row.justify-content-around.align-items-center(titulo="Extracción")
         .col-md-4.mb-4.mb-md-0
           figure
@@ -302,7 +302,7 @@
         figure
           img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-23.svg')
       .col-9
-        AcordionA.mb-5(tipo="a" clase-tarjeta="color-secundario")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="faa")
           .row(titulo="Paila semicilíndrica")
             .col-md-8.mb-4.mb-md-0
               p.mb-5 Se utiliza una cubeta semicilíndrica cuando el paso del jugo se realiza manualmente. Tiene la ventaja de poder reducir el ancho del quemador con la misma superficie de transferencia de calor que una olla plana. Están en la zona más caliente del quemador.
