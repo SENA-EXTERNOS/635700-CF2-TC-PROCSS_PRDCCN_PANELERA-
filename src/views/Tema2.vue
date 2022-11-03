@@ -15,7 +15,7 @@
         p.mb-0 La panela es un edulcorante altamente nutritivo que se elabora concentrando todos los sólidos solubles en agua y en el jugo de caña de azúcar. La panela se diferencia de la azúcar refinada en que contiene, además de sacarosa, glucosa y fructosa, una presencia importante de minerales, grasas, compuestos proteicos y vitaminas, desde el punto de vista nutricional.
     p.mb-4 <b>A continuación, se presentan las fases del proceso de producción de panela.</b>
 
-    LineaTiempoC.faa(text-small)
+    LineaTiempoC.color-acento-botones.faa(text-small)
       .row.justify-content-around.align-items-center(titulo="Extracción")
         .col-md-4.mb-4.mb-md-0
           figure
