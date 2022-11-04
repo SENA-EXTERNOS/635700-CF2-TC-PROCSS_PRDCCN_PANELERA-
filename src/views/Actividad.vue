@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       span 
         i.fas.fa-puzzle-piece
-      h1 Actividad didáctica
+      h1 Efectos de la temperatura en la producción panelera
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch 
     .col-12.col-md-8.col-lg-9
       .titulo-segundo.color-acento-contenido.mb-5
