@@ -216,7 +216,6 @@
       .col-8
         TabsA.color-secundario.mb-5
           .tarjeta.color-acordeones.p-4(titulo="Plana")
-            h4 Plana
 
             .row 
               .col-xl-12.mb-4
@@ -226,7 +225,6 @@
                   
           
           .tarjeta.color-acordeones.p-4(titulo="Plana-Cimpa")
-            h4 Plana-Cimpa
 
             .row
               .col-xl-12.mb-4
@@ -236,7 +234,6 @@
                 
           
           .tarjeta.color-acordeones.p-4(titulo="Ward-CIMPA")
-            h4 Ward-CIMPA
             p.mb-4 Este tipo de cámara tiene un diseño especial que aumenta la combustión y la eficiencia del proceso. Esto se debe a una mejor estabilidad en términos de temperatura y potencia a lo largo del tiempo. Este tipo de cámara puede alcanzar temperaturas cercanas a los 1200 °C y, cuando se le suministra un 60 % de exceso de aire y una humedad promedio de 40 bagazo, produce un 3 % en volumen de monóxido de carbono y un 14 % en volumen de dióxido de carbono. 
             p.mb-4 También cuenta con dos características especiales. Primero, hay lámparas que precalientan y secan el bagazo antes de quemarlo. 
             p En esta tolva, la humedad contenida en el bagazo se evapora de las paredes de la cámara bajo la acción de la energía radiante. Esta característica permite la introducción de bagazo con un contenido de humedad de casi 45 % (b.h.). En segundo lugar, el aire necesario para la combustión se suministra en dos corrientes. Uno es el aire primario que fluye a través de la parrilla (un total de 70 litros de aire) y el 30 % restante se alimenta como aire secundario a la cámara por encima de la combustión de los volátiles en el lecho de bagazo (Gordillo & García, 1992).

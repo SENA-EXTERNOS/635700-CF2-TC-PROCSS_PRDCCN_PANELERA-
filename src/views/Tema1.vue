@@ -32,7 +32,6 @@
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-3.png')
           .col-md-6
-            p <b>Bagazo</b>
             p Es el residuo fibroso que queda de la caña de azúcar después de haber sido molida para extraer el jugo. Se guarda en una choza llamada bagacera cerca al trapiche y al quemador.
             p En los pequeños ingenios azucareros, este almacenamiento se acumula en pilas individuales de 2-3 metros de altura, lo que requiere un uso juicioso, tanto de la superficie disponible en la bagacera, como del flujo de aire que promueve el secado. Así que lo secamos durante 8-20 días para su posterior uso en el horno. En el trapiche grande hay una gran bagacera contigua al lugar. En estos, el bagazo se almacena en montones formados por la descarga de canastos recolectados del molino. (Vallejo., Peña, & Mora. 1995). 
       
@@ -42,7 +41,6 @@
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-4.png')
           .col-md-6
-            p <b>Composición física</b>
             p A pesar de la variedad de plantas de trituración y de las máquinas utilizadas para ellas, la composición física del bagazo varía dentro de límites muy estrechos. En términos de exotermia, la característica más importante del bagazo es su contenido de humedad. 
             p Tal contenido de humedad del bagazo en molinos de bajo rendimiento es de alrededor del 50 % y en molinos de buen rendimiento, alrededor del 40 %. Los valores más comunes para el contenido de humedad varían entre 42 % y 48 %, en todos los casos no se considera incorrecto asumir un contenido de humedad del 45 % (Hugot, 1982, p. 617).
             p Además del agua, el bagazo contiene:
@@ -63,7 +61,6 @@
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-5.png')
           .col-md-6
-            p <b>Cantidad de Bagazo</b>
             p La cantidad de bagazo disponible en un ingenio panelero depende del tipo y calidad de la caña de azúcar y de la eficiencia del ingenio en la extracción del jugo de caña. Generalmente, la cantidad de bagazo está entre el 25 % y el 45 % del peso de la caña molida. 250 y 450 KG por tonelada de caña de azúcar procesada.
             p El peso de bagazo recuperado es inversamente proporcional a la eficiencia de extracción del molino. Es decir, cuanto más jugo se extrae, menos bagazo se recupera, pero como resultado, el bagazo también tiene menor contenido de humedad, lo que facilita la combustión.
         
@@ -73,7 +70,6 @@
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-6.png')
           .col-md-6
-            p <b>Composición química</b>
             p La composición química promedio de la fibra seca de bagazo es:
             p.mb-0 <b>C:</b> 47 %
             p.mb-0 <b>H:</b> 6,5 %
@@ -87,7 +83,6 @@
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-7.png')
           .col-md-6
-            p <b>Valor calorífico del bagazo</b>
             p El poder calorífico (CV) es la cantidad de calor que se puede producir al quemar una unidad de peso del combustible en cuestión. Hay dos tipos de poder calorífico: alto poder calorífico y bajo poder calorífico.
             
             .tarjeta.color-secundario.p-3.mb-5
