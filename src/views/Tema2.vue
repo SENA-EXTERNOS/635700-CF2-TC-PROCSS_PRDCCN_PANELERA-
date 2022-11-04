@@ -23,7 +23,6 @@
           
       
         .col-md-8
-          p.mb-3 <b>Extracción de la materia prima</b>
           p.mb-4 El corte y transporte de las cañas de azúcar es muy importante, ya que, es la etapa previa al inicio del proceso productivo de panela y al mismo tiempo, es necesario cortar las cañas en el punto óptimo de madurez para garantizar la excelente calidad de la panela.
           p.mb-4 La caña de azúcar está madura cuando la concentración de azúcar en la base y el final del tallo es similar. El tiempo de maduración de la caña de azúcar desde el momento de la siembra o entre cortes depende de la variedad, las condiciones climáticas y, sobre todo, la altitud del campo de cultivo.
          
@@ -36,7 +35,6 @@
           
       
         .col-md-7
-          p.mb-3 <b>Recepción de la materia prima</b>
           p.mb-4 Esta etapa se denomina preparación de caña, y consiste en almacenar suficiente caña para permitir el funcionamiento continuo del quemador. Se recomienda cubrir el área con un piso de cemento (en el techo) para evitar que el lodo se pegue a la caña, lo que puede afectar la calidad de la panela. 
           p.mb-4 Un dato útil es que 1 tonelada de tubería ocupa un área de aproximadamente 2 m3, o 1 m2 x 2 m de alto.
 
@@ -48,7 +46,6 @@
           
       
         .col-md-7
-          p.mb-3 <b>Molienda</b>
           p.mb-4 Esta es la primera parte del proceso donde la caña de azúcar se pasa entre los rodillos o martillos de un molino para obtener el jugo de caña de azúcar y un residuo sólido llamado bagazo verde que contiene 50 – 60 % de humedad. 
           p.mb-4 La industria panelera utiliza un proceso de extracción en seco. Es decir, el proceso de trituración se realiza sin añadir agua.
 
@@ -59,7 +56,6 @@
           
       
         .col-md-8
-          p.mb-3 <b>Pre-limpieza</b>
           p.mb-4 El jugo crudo obtenido durante el proceso de molienda, o guarapo, es un pre-prensado, elemento compuesto principalmente por bagazo, caña de azúcar, tierra, sobrantes de materia en suspensión, que tiene la función de retener las impurezas dispersas en el jugo, pasar por el limpiador, sustancias, lodos y sustancias precursoras del color. 
           p.mb-4 Los pre-limpiadores funcionan separando las impurezas del jugo debido a las diferencias de densidad. La separación en frío, antes del inicio del proceso, evita que los precursores de colorantes se liberen en el jugo por exposición al calor, afectando negativamente la presentación de los azúcares orgánicos. Este proceso se repite hasta que el jugo esté completamente limpio, garantizando mejores productos.
 
@@ -70,7 +66,6 @@
           
       
         .col-md-8
-          p.mb-3 <b>Almacenamiento de los jugos</b>
           p.mb-4 Consiste en recolectar el jugo pre lavado en tanques de almacenamiento o colectores de acero inoxidable. El paso del jugo almacenado al clarificador es por gravedad, por lo que es importante que el colector quede arriba del clarificador.
 
       .row.justify-content-around.align-items-center(titulo="Clarificación")
@@ -80,7 +75,6 @@
           
       
         .col-md-8
-          p.mb-3 <b>Clarificación</b>
           p.mb-4 La etapa de clarificación se realiza, tradicionalmente, precalentando el calor generado en los quemadores en combinación sin evaporación y alcalinizando el jugo de caña de azúcar mediante la adición de aditivos básicos a base de corteza vegetal como el guásimo, cadillo, etc. 
           p.mb-4 En algunos lugares se utiliza la ceniza de la cascarilla del café. La clarificación se realiza por flotación. En esta etapa, la cachaza se elimina en forma de burbujas que se forman en la superficie del jugo, lo que garantiza un producto más puro y claro.
           p.mb-4 La literatura sugiere aumentar la temperatura del jugo en el rango de 1.5 - 2.5 °C / min. Esto permite que los contaminantes floculan debido al efecto combinado de la temperatura, el tiempo de clarificación y el floculante o aglutinante. Es importante tener en cuenta que el tiempo de residencia del jugo en la sartén después de la clarificación debe ser de 1,5 a 2 horas.
@@ -93,7 +87,6 @@
           
       
         .col-md-7
-          p.mb-3 <b>Evaporación y concentración</b>
           p.mb-4 Al final de la refinación del jugo de caña de azúcar, el contenido de agua se evapora. Esto aumenta la concentración de azúcar hasta que alcanza un nivel de sólidos solubles de alrededor de 70 ° Brix, llamado miel.
           p.mb-4 Este proceso se realiza en platos metálicos en módulos de paneles pequeños o en filas de 3 - 4 pailas en módulos grandes. Las pailas aumentan la eficiencia energética, reduce el tiempo de residencia, aumenta la producción y los ingresos de los productores.
           p.mb-4 En la etapa de concentración, el jugo ya evaporado se concentra evaporando más agua. La diferencia en esta etapa es que se usa menos jugo y que la sacarosa se remueve constantemente para evitar que se queme y se pegue a las paredes de la olla.
@@ -105,7 +98,6 @@
           
       
         .col-md-8
-          p.mb-3 <b>Punteo</b>
           p.mb-4 Esta parte del proceso consiste en la evaporación casi completa del agua. Con ello se consigue la mayor concentración de sólidos alcanzando valores superiores a los 90 ° Brix.
           p.mb-4 Un indicador técnico es el punto de ebullición de la miel, que debe llegar a unos 127 °C para la panela granular. Esta temperatura puede variar hasta 2 °C dependiendo de la altitud y la pureza de la miel.
           p.mb-4 Sin equipo de control, el módulo panelero se basa en la observación de propiedades específicas como la viscosidad y la adhesión de la miel.
@@ -117,7 +109,6 @@
           
       
         .col-md-8
-          p.mb-3 <b>Cristalización y enfriamiento</b>
           p.mb-4 En esta etapa se bate la miel y cuando llega al punto de panela se retira del fogón y se remueve con un batidor de acero inoxidable en un recipiente llamado cazo. 
           p.mb-4 Una vez encontrado el punto, se deja enfriar, batiéndolo por 20 minutos, logrando su enfriamiento y acto seguido se transfiere a las gabelas que pueden ser de 1 libra o de 1 kilo.
           p.mb-4 Al pasar 20 minutos, ya la panela se ha cristalizado, desarman las gabelas y la panela ya se encuentra lista para ser empacada, sin antes dejar enfriar.
@@ -129,7 +120,6 @@
           
       
         .col-md-8
-          p.mb-3 <b>Tamizado</b>
           p.mb-4 El único caso en que es necesario este paso es en la producción de panela granulada, proceso que consiste en tamizar la panela después de la molienda para obtener un granulado uniforme. 
           p.mb-4 El residuo del tamiz se procesa nuevamente y se envía a evaporación.
 
