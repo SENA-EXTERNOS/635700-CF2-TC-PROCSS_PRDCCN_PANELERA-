@@ -16,7 +16,7 @@
     p.mb-4 <b>A continuación, se presentan las fases del proceso de producción de panela.</b>
 
     LineaTiempoC.color-acento-botones.faa(text-small)
-      .row.justify-content-around.align-items-center(titulo="Extracción")
+      .row.justify-content-around.align-items-center(titulo="Extracción<br>de la materia prima")
         .col-md-4.mb-4.mb-md-0
           figure
             img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-2.png', alt='Texto que describa la imagen')
@@ -28,7 +28,7 @@
          
 
 
-      .row.justify-content-around.align-items-center(titulo="Recepción")
+      .row.justify-content-around.align-items-center(titulo="Recepción<br>de la materia prima")
         .col-md-4.mb-4.mb-md-0
           figure
             img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-3.png', alt='Texto que describa la imagen')
@@ -59,7 +59,7 @@
           p.mb-4 El jugo crudo obtenido durante el proceso de molienda, o guarapo, es un pre-prensado, elemento compuesto principalmente por bagazo, caña de azúcar, tierra, sobrantes de materia en suspensión, que tiene la función de retener las impurezas dispersas en el jugo, pasar por el limpiador, sustancias, lodos y sustancias precursoras del color. 
           p.mb-4 Los pre-limpiadores funcionan separando las impurezas del jugo debido a las diferencias de densidad. La separación en frío, antes del inicio del proceso, evita que los precursores de colorantes se liberen en el jugo por exposición al calor, afectando negativamente la presentación de los azúcares orgánicos. Este proceso se repite hasta que el jugo esté completamente limpio, garantizando mejores productos.
 
-      .row.justify-content-around.align-items-center(titulo="Almacenamiento")
+      .row.justify-content-around.align-items-center(titulo="Almacenamiento<br>de los jugos")
         .col-md-4.mb-4.mb-md-0
           figure
             img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-6.png', alt='Texto que describa la imagen')
@@ -80,7 +80,7 @@
           p.mb-4 La literatura sugiere aumentar la temperatura del jugo en el rango de 1.5 - 2.5 °C / min. Esto permite que los contaminantes floculan debido al efecto combinado de la temperatura, el tiempo de clarificación y el floculante o aglutinante. Es importante tener en cuenta que el tiempo de residencia del jugo en la sartén después de la clarificación debe ser de 1,5 a 2 horas.
           p.mb-4 Uno de los factores más importantes a controlar al hacer panela es la acidez del jugo. Para medir este factor se utiliza el pH (0 - 7 soluciones ácidas y 7-14 soluciones básicas). El objetivo es trabajar a un pH neutro (7) que no destruya los azúcares reductores presentes y evite la descomposición o inversión de la sacarosa en azúcares reductores (glucosa y fructosa).
 
-      .row.justify-content-around.align-items-center(titulo="Evaporación")
+      .row.justify-content-around.align-items-center(titulo="Evaporación<br>y concentración")
         .col-md-4.mb-4.mb-md-0
           figure
             img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-8.png', alt='Texto que describa la imagen')
@@ -102,7 +102,7 @@
           p.mb-4 Un indicador técnico es el punto de ebullición de la miel, que debe llegar a unos 127 °C para la panela granular. Esta temperatura puede variar hasta 2 °C dependiendo de la altitud y la pureza de la miel.
           p.mb-4 Sin equipo de control, el módulo panelero se basa en la observación de propiedades específicas como la viscosidad y la adhesión de la miel.
 
-      .row.justify-content-around.align-items-center(titulo="Cristalización")
+      .row.justify-content-around.align-items-center(titulo="Cristalización<br>y enfriamiento")
         .col-md-4.mb-4.mb-md-0
           figure
             img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-10.png', alt='Texto que describa la imagen')
